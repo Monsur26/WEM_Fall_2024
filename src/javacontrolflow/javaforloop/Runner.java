@@ -11,5 +11,6 @@ public class Runner {
         prac.sumOfNthNumber(number);
         prac.printEvenNumber(number);
         prac.printOddNumber(number);
+
     }
 }
