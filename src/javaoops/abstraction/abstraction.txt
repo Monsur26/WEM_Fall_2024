@@ -1,0 +1,15 @@
+Rules of abstraction
+ No objects can be created
+ Variables must be initialized
+ Methods must not have any implementation ie no method body
+
+ what is the difference between an abstract class and an interface
+
+    1. Abstract class is not 100% abstract.
+    2. Abstract class allows both instatiated and non-instantiated variables.
+    3. Abstract class requires a method to be decalred with a keyword
+    'abstract' in order to make it without implementation ie method nody.
+
+    1. Inteface is 100% abstract
+    2. It does not allow variables without instantiated ie without values.
+    3. All the methods are by default abstract meaning no method implementation ie no method body.
