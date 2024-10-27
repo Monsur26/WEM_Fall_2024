@@ -1,0 +1,7 @@
+Inheritance are of 3 types in Java
+ Single - one class is extended to another
+ Multilevel - one class is extended to another. And then that class is further extended to another class
+ Hierarchical - Two or more different classes are extending the same class
+
+ SuperClass - A Class that is getiing extended by the subclass.
+ SubClass-  A Class which is extending the Superclass.
